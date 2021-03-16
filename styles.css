@@ -10,5 +10,17 @@ h1{
 
 h4{
     text-align: center;
-    columns: black;
+    color: black;
+    background-color: darkorange;
+}
+
+h3{
+    text-align: center;
+    color: darkgreen;
+    background-color: darkred;
+}
+h2{
+    text-align: center;
+    color: darkorange;
+    background-color: deeppink;
 }
